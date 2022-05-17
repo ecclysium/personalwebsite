@@ -15,9 +15,9 @@ h2 {
 }
 
 div {
-	background-color: darkkhaki
+	background-color: darkkhaki;
 	display: flex;
 	align-items: center;
-	padding: 20px;
+	padding: 120px;
 	
 }
