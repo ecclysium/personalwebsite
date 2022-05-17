@@ -3,14 +3,20 @@ body {
 }
 
 h1 {
-	color: navy;
+	color: MediumAquaMarine;
 	margin-left: 40px;
 	font-family: "Electrolize", "Comfortaa", "Courier New";
 }
 
 h2 {
 	margin-left: 80px;
-	font-family, "Major Mono Display", "Press Start 2P", "Courier New"
+	font-family: "Major Mono Display", "Press Start 2P", "Courier New";
+	
+}
+
+h3 {
+	margin-left: 80px;
+	font-family: "Major Mono Display", "Press Start 2P", "Courier New";
 	
 }
 
