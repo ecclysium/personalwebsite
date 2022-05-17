@@ -1,10 +1,17 @@
 body {
-  background-color: olivedrab;
+	background-color: olivedrab;
 }
 
 h1 {
-  color: navy;
-  margin-left: 40px;
+	color: navy;
+	margin-left: 40px;
+	font-family: "Electrolize", "Comfortaa", "Courier New";
+}
+
+h2 {
+	margin-left: 80px;
+	font-family, "Major Mono Display", "Press Start 2P", "Courier New"
+	
 }
 
 div {
