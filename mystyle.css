@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: olivedrab;
 }
 
 h1 {
@@ -8,8 +8,9 @@ h1 {
 }
 
 div {
-	background-color: lightgrey
+	background-color: darkkhaki
 	display: flex;
 	align-items: center;
+	padding: 20px;
 	
 }
