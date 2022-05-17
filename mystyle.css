@@ -6,3 +6,10 @@ h1 {
   color: navy;
   margin-left: 40px;
 }
+
+div {
+	background-color: lightgrey
+	display: flex;
+	align-items: center;
+	
+}
