@@ -21,10 +21,12 @@ h3 {
 }
 
 article {
+	padding: 120px;
+	border: 100px;
 	background-color: darkkhaki;
 	display: flex;
 	align-items: center;
-	padding: 120px;
+
 	
 }
 
