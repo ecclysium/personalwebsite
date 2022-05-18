@@ -1,6 +1,9 @@
 body {
 	background-color: olivedrab;
 	font-family: "Lucida Console", "Corbel", "Consolas"
+	margin-top: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 h1 {
@@ -22,13 +25,14 @@ h3 {
 }
 
 article {
-    padding: 100px;
+	display: block;
+    padding: 40px;
     border: 100px;
     background-color: darkkhaki;
-    display: block;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-items: flex-start;
+	border-radius: 90px;
+	margin-bottom: 10px
+   
+
 }
 
 div {
