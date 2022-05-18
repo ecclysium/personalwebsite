@@ -32,6 +32,18 @@ ul{
 	
 }
 
+li{
+	display: inline;
+	
+}
+
+li a{
+	display: block;
+	padding: 8px;
+	background-color: palegreen;
+	
+}
+
 article {
 	display: block;
     padding: 20px;
