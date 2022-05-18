@@ -7,16 +7,22 @@ body {
 }
 
 h1 {
-	color: MediumAquaMarine;
-	margin-left: 200px;
-	padding: 10px;
-	font-family: "Electrolize", "Comfortaa", "MS Mincho";
+    color: #7affd2;
+    margin-left: 150px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-family: "Electrolize", "Comfortaa", "MS Mincho";
 }
 
 h2 {
 	margin-left: 80px;
 	padding: 25px;
 	font-family: "Major Mono Display", "Press Start 2P", "MS Mincho";
+	
+}
+
+header h2{
+	margin-left: 350px;
 	
 }
 
