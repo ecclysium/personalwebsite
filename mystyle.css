@@ -1,6 +1,6 @@
 body {
 	background-color: olivedrab;
-	font-family: "Lucida Console", "Corbel", "Consolas"
+	font-family: "Lucida Console", "Corbel", "Consolas";
 	margin-top: 35px;
 	margin-left: 250px;
 	margin-right: 250px;
@@ -9,20 +9,26 @@ body {
 h1 {
     color: #7affd2;
     margin-left: 150px;
-    margin-top: 0px;
+    margin-top: -20px;
     margin-bottom: 15px;
     font-family: "Electrolize", "Comfortaa", "MS Mincho";
 }
 
 h2 {
 	margin-left: 80px;
-	padding: 25px;
+	margin-bottom:10px;
+	margin-top: 5px;
+	margin-right: 800px;
+	padding: 5px;
 	font-family: "Major Mono Display", "Press Start 2P", "MS Mincho";
+	display: block;
+	background-color: khaki;
+	border-radius: 25px;
 	
 }
 
 header h2{
-	margin-left: 350px;
+	align-items: right;
 	
 }
 
@@ -32,22 +38,35 @@ h3 {
 	
 }
 
+header ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 5px;
+	overflow: hidden;
+	display: block;
+	
+}
+
 ul{
 	list-style-type: none;
 	margin: 0;
 	padding: 5px;
 	overflow: hidden;
 	
-	
 }
 
 li{
-	display: inline;
-	float: left;
+	float: none;
+	margin-left: 25px;
 	
 }
 
-li a{
+header li{
+	float: left;
+	margin-left: 0px;
+}
+
+header li a{
 	display: block;
 	padding: 8px;
 	background-color: palegreen;
@@ -74,7 +93,13 @@ div {
 }
 
 footer{
-	align-items: center;
+	display: block;
+	background-color: darkkhaki;
+	border-radius: 15px;
+	margin-left: 350px;
+	margin-right: 350px;
+	padding: 3px;
+	text-align: center;
 	
 	
 }
