@@ -34,10 +34,11 @@ ul{
 
 li{
 	display: inline;
+	float: left;
 	
 }
 
-a li{
+li a{
 	display: block;
 	padding: 8px;
 	background-color: palegreen;
