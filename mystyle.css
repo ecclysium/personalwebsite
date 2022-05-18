@@ -21,6 +21,7 @@ h3 {
 }
 
 article {
+	display: block;
 	padding: 120px;
 	border: 100px;
 	background-color: darkkhaki;
