@@ -6,18 +6,18 @@ body {
 h1 {
 	color: MediumAquaMarine;
 	margin-left: 40px;
-	font-family: "Electrolize", "Comfortaa", "UD Digi KyoKasho NP-R";
+	font-family: "Electrolize", "Comfortaa", "MS Mincho";
 }
 
 h2 {
 	margin-left: 80px;
-	font-family: "Major Mono Display", "Press Start 2P", "UD Digi KyoKasho NP-R";
+	font-family: "Major Mono Display", "Press Start 2P", "MS Mincho";
 	
 }
 
 h3 {
 	margin-left: 80px;
-	font-family: "Major Mono Display", "UD Digi KyoKasho NP-R", "Courier New";
+	font-family: "Major Mono Display", "MS Mincho", "Courier New";
 	
 }
 
