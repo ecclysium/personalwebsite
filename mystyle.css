@@ -1,27 +1,28 @@
 body {
 	background-color: olivedrab;
+	font-family: "Lucida Console", "Corbel", "Consolas"
 }
 
 h1 {
 	color: MediumAquaMarine;
 	margin-left: 40px;
-	font-family: "Electrolize", "Comfortaa", "Courier New";
+	font-family: "Electrolize", "Comfortaa", "UD Digi KyoKasho NP-R";
 }
 
 h2 {
 	margin-left: 80px;
-	font-family: "Major Mono Display", "Press Start 2P", "Courier New";
+	font-family: "Major Mono Display", "Press Start 2P", "UD Digi KyoKasho NP-R";
 	
 }
 
 h3 {
 	margin-left: 80px;
-	font-family: "Major Mono Display", "Press Start 2P", "Courier New";
+	font-family: "Major Mono Display", "UD Digi KyoKasho NP-R", "Courier New";
 	
 }
 
 article {
-    padding: 120px;
+    padding: 100px;
     border: 100px;
     background-color: darkkhaki;
     display: flex;
