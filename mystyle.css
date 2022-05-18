@@ -1,9 +1,9 @@
 body {
 	background-color: olivedrab;
 	font-family: "Lucida Console", "Corbel", "Consolas"
-	margin-top: 20px;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-top: 35px;
+	margin-left: 150px;
+	margin-right: 150px;
 }
 
 h1 {
@@ -26,11 +26,11 @@ h3 {
 
 article {
 	display: block;
-    padding: 40px;
+    padding: 20px;
     border: 100px;
     background-color: darkkhaki;
-	border-radius: 90px;
-	margin-bottom: 10px
+	border-radius: 8px;
+	margin-bottom: 15px
    
 
 }
