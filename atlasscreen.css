@@ -1,6 +1,6 @@
 
 body {
-	background-image: linear-gradient(#6db93e,#006880);
+	background-image: repeating-linear-gradient(lightskyblue 10%,cornflowerblue 15%);
 	font-family: "Lucida Console", "Corbel", "Consolas";
 	margin-top: 35px;
 	margin-left: 250px;
@@ -21,7 +21,7 @@ h2 {
 	padding: 10px;
 	font-family: "Major Mono Display", "Press Start 2P", "MS Mincho", monospace;
 	display: flex;
-	background-image: linear-gradient(to right,khaki,darkkhaki);
+	background-image: linear-gradient(to right,lightskyblue,lightsteelblue);
 	border-radius: 25px;
 	
 }
@@ -68,7 +68,7 @@ header li{
 header li a{
 	display: block;
 	padding: 8px;
-	background-color: palegreen;
+	background-color: dodgerblue;
 	
 }
 
@@ -76,7 +76,7 @@ article {
 	display: block;
     padding: 25px;
     border: 100px;
-    background-color: darkkhaki;
+    background-color: lightsteelblue;
 	border-radius: 8px;
 	margin-bottom: 15px
    
@@ -84,21 +84,16 @@ article {
 }
 
 div {
-	background-color: darkkhaki;
+	background-color: lightsteelblue;
 	display: flex;
 	align-items: center;
 	padding: 120px;
 	
 }
 
-img {
-	text-align: right;
-	
-}
-
 footer{
 	display: block;
-	background-color: darkkhaki;
+	background-color: lightsteelblue;
 	border-radius: 15px;
 	margin-left: 350px;
 	margin-right: 350px;
