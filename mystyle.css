@@ -112,7 +112,8 @@ footer{
 .navbar {
   overflow: hidden;
   background-color: darkkhaki;
-  border-radius: 10px;
+  border-radius: 8px;
+  margin-bottom: 15px;
 }
 
 .navbar a {
