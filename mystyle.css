@@ -107,8 +107,6 @@ footer{
 
 
 
-
-
 .navbar {
   overflow: hidden;
   background-color: darkkhaki;
@@ -126,6 +124,7 @@ footer{
 }
 .navbar a:hover, .dropdownoption:hover .dropdownbox {
   background-color: #006880;
+  border-radius: 8px;
 }
 
 
@@ -149,18 +148,19 @@ footer{
 
 .dropdownoption:hover .dropdown-content {
   display: block;
+  background-color: khaki;
 }
 
 
 .dropdown-content {
   display: none;
-  background-color: khaki;
   min-width: 100px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
   text-decoration: none;
   float: none;
-  position: absolute;
+  position: absolute; 
+ 
 }
 
 .dropdown-content a {
@@ -172,12 +172,32 @@ footer{
 }
 
 .dropdown-content a:hover {
-  background-color: khaki;
+  background-color: #6db93e;
+  border-radius: 8px;
 }
 
 
 
 
+
+
+.oddImageArticle{
+	min-height: 350px;
+	border-bottom: 30px;
+	max-width: 100%;
+	
+	
+}
+
+div img{
+	display: block;
+	height: auto;
+	width: auto;
+	max-height: 100%;
+	max-width: 100%;
+	object-fit: container;
+	
+}
 
 
 
