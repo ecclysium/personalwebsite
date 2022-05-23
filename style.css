@@ -49,7 +49,7 @@ header ul{
 }
 
 ul{
-	list-style-type: none;
+	list-style-type: disc;
 	margin: 0;
 	padding: 5px;
 	overflow: hidden;
@@ -58,7 +58,8 @@ ul{
 
 li{
 	float: none;
-	margin-left: 25px;
+	margin-left: 50px;
+	padding: 3px;
 	
 }
 
