@@ -186,9 +186,19 @@ footer{
 	
 }
 
+
+.linkheader{
+	margin-bottom:0px;
+	margin-top: 0px;
+	padding: 0px;
+	align-items: right;
+	
+}
+
 .linkheader a{
 	color: black;
 	text-decoration: none;
+
 	
 }
 
